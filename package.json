@@ -1,0 +1,26 @@
+{
+  "name": "xeljuho",
+  "version": "0.0.1",
+  "description": "A Lojban epistemology machine in Javascript",
+  "author": "Travis D. Reed <tdreed@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dancxjo/xeljuho"
+  },
+  "bugs": {
+    "url": "https://github.com/dancxjo/xeljuho/issues"
+  },
+  "keywords": [
+    "xeljuho",
+    "lojban",
+    "epistemology",
+    "knowledgebase",
+    "unification",
+    "logic",
+    "knowledge"
+  ],
+  "dependencies": {
+    "junify": "*"
+  },
+  "license": "Artistic"
+}
